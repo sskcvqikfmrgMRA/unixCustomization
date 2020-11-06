@@ -1,0 +1,22 @@
+{
+    "name": "darknesscolorscheme",
+    "displayName": "DarknessColorScheme",
+    "description": "DarknessColorScheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarknessColorScheme",
+                "uiTheme": "vs",
+                "path": "./themes/DarknessColorScheme-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "xd"
+}
