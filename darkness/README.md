@@ -6,6 +6,10 @@ Konsole colorscheme.
 
 ## Wallpapers
 Directory with wallpapers I was using with this setup.
+There are references to original ones.
+* [Fa?](https://www.deviantart.com/greenmapple17/art/Darkness-KonoSuba-599601196)
+* [Fa?](https://www.deviantart.com/ancors/art/Darkness-KonoSuba-Minimalistic-600074971)
+* [Fa?](https://www.deviantart.com/fikrimochizou/art/Darkness-KonoSuba-Minimalist-WP-607155953)
 
 ## vscode
 There is a directory and a .txt file. Directory is colorscheme for source code etc. darknesscolorscheme - is an unbuilded vscode extension. You can build it using vsce package command.
